@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @DaveChini
+- 👀 I’m interested in AI and building interesting things.
+- 🌱 I’m currently learning AI and how to build interesting things.
+- 💞️ I’m looking to collaborate on AI and interesting things.
